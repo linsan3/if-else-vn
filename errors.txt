@@ -1,0 +1,10 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+File "game/screens.rpy", line 255: '_' is not a keyword argument or valid child of the imagebutton statement.
+    imagebutton _("Back") action Rollback()
+                 ^
+
+Ren'Py Version: Ren'Py 8.3.4.24120703
+Sat Feb  1 16:13:49 2025
